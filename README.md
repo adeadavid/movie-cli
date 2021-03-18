@@ -8,8 +8,6 @@ command line interface for managing movies in a theatre
 
 ## Usage
 
----
-
 ### Installation
 
 Install dependencies
@@ -58,8 +56,6 @@ $ movie-cli update <movie_id>
 ```
 
 ## App Info
-
----
 
 ### Author
 
