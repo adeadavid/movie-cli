@@ -1,0 +1,26 @@
+{
+  "name": "movies-cli",
+  "version": "1.0.0",
+  "description": "Movie cli tool",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "cli",
+    "movies"
+  ],
+  "author": "Adegorite Afolabi David",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "inquirer": "^8.0.0",
+    "mongoose": "^5.12.0"
+  }
+}
