@@ -1,5 +1,5 @@
 {
-  "name": "movies-cli",
+  "name": "movie-cli",
   "version": "1.0.0",
   "description": "Movie cli tool",
   "main": "index.js",
