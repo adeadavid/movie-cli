@@ -8,6 +8,10 @@ command line interface for managing movies in a theatre
 
 ## Usage
 
+### System Requirements
+
+    Node Js ["Node"]("https://nodejs.org/en/", "Download Node")
+
 ### Installation
 
 Install dependencies
